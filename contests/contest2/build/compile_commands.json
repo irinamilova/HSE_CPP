@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/232-2/contest2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\cfgvhbjn.dir\\main.cpp.obj -c C:\\232-2\\contest2\\main.cpp",
+  "file": "C:/232-2/contest2/main.cpp",
+  "output": "CMakeFiles/cfgvhbjn.dir/main.cpp.obj"
+}
+]

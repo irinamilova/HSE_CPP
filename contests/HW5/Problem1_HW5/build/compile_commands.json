@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/irina/OneDrive/Документы/GitHub/HSE_CPP/contests/HW5/Problem1_HW5/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -O0 -Werror=return-type -std=gnu++20 @CMakeFiles\\Problem1.dir\\problem1\\main.cpp.obj.modmap -o CMakeFiles\\Problem1.dir\\problem1\\main.cpp.obj -c C:\\Users\\irina\\OneDrive\\Документы\\GitHub\\HSE_CPP\\contests\\HW5\\Problem1_HW5\\problem1\\main.cpp",
+  "file": "C:\\Users\\irina\\OneDrive\\Документы\\GitHub\\HSE_CPP\\contests\\HW5\\Problem1_HW5\\problem1\\main.cpp",
+  "output": "CMakeFiles\\Problem1.dir\\problem1\\main.cpp.obj"
+}
+]

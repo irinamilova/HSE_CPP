@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/232-2/contest3/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\contest3.dir\\main.cpp.obj -c C:\\232-2\\contest3\\main.cpp",
+  "file": "C:\\232-2\\contest3\\main.cpp",
+  "output": "CMakeFiles\\contest3.dir\\main.cpp.obj"
+}
+]
